@@ -3,7 +3,8 @@ const AboutMe = () => {
      <div class="d-flex justify-content-center flex-wrap">
          <h1 class= "col-12 justify-content-center d-flex"> About Me</h1>
          <div class="d-flex justify-content-center">
-         <img src="coolpicthatineedtoinsert"alt=""></img>
+         <img src="../assets/me.jpg"alt="me"></img>
+         
 </div>
    <p> Hello my name is Yahir, I am from San Diego, California. I am very passionate about Computer Science and strive to continue improving my knowledge. 
     With the skills I have developed through UC Berkeley BootCamp I am be able to take on Complex level tasks that require the use of multiple technologies.
