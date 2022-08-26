@@ -4,7 +4,7 @@
 
 
 ## Description
-The task was to create a functional portfolio application using React.
+The task was to create a functional portfolio application using React. The app can be accesed [here](https://yahir-f.github.io/react-portfolio/).
 # Table of Contents
 * [Description](#description)
 * [Technologies](#technologies)
